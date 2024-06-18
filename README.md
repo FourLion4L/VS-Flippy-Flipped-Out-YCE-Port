@@ -15,7 +15,7 @@ Link to the original mod (Gamejolt)
 
 ## How is this pesky ugly port any different from the original mod?
 
-ℹ️ Well, this port includes several extra features, including:
+ℹ️ Well, this port includes several extra features, starring:
 - (Toggleable) Modcharts (on-screen effects to make gameplay more engaging!) made for every separate song included in this port
 - Several (Toggleable) reworked mechanics to further diverse the gameplay and expand upon original ideas of the original VS Flippy: Flipped Out! mod
 - 16 BRAND NEW ACHIEVEMENTS, some of which are easy to get, some with a progression to be made, and some are even hidden, so have fun unlocking all sixteen!
@@ -23,5 +23,15 @@ Link to the original mod (Gamejolt)
 - Credits menu replicated straight from Psych Engine!
 
 ℹ️ This port also has several following downsides:
-- 1
-- 2
+- This port doesn't have songs that were embedded in the original mod, the ones that weren't present in the mod's game files
+- This port is made for an FNF' engine that is by now completely abandoned, but was not at all when this port had started being developed. Take that into account when thinking how much this engine can do as it has a lot of messy code and poor optimization
+
+----------
+
+## How to install and play this weird abomination?
+
+1. Download the latest version of YoshiCtafterEngine (2.3.2)
+2. Put "VS Flippy Flipped Out" folder from this repository inside the "mods" folder of the installed engine
+3. Launch the game and get to main menu
+4. Press TAB and choose "VS Flippy Flipped Out" mod
+5. You're good to go. Have fun!
