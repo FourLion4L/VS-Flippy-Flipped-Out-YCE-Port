@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Explosion Shroom.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="burn explosion shroom0000" x="20" y="20" width="482" height="376" frameX="0" frameY="0" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0001" x="20" y="20" width="482" height="376" frameX="0" frameY="0" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0002" x="522" y="20" width="278" height="300" frameX="-134" frameY="-82" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0003" x="522" y="20" width="278" height="300" frameX="-134" frameY="-82" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0004" x="820" y="20" width="144" height="270" frameX="-206" frameY="-118" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0005" x="820" y="20" width="144" height="270" frameX="-206" frameY="-118" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0006" x="20" y="416" width="86" height="237" frameX="-223" frameY="-150" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0007" x="20" y="416" width="86" height="237" frameX="-223" frameY="-150" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0008" x="126" y="416" width="61" height="220" frameX="-242" frameY="-173" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0009" x="126" y="416" width="61" height="220" frameX="-242" frameY="-173" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0010" x="207" y="416" width="25" height="173" frameX="-267" frameY="-222" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0011" x="207" y="416" width="25" height="173" frameX="-267" frameY="-222" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0012" x="252" y="416" width="24" height="130" frameX="-274" frameY="-269" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0013" x="252" y="416" width="24" height="130" frameX="-274" frameY="-269" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0014" x="296" y="416" width="21" height="102" frameX="-272" frameY="-295" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0015" x="296" y="416" width="21" height="102" frameX="-272" frameY="-295" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0016" x="337" y="416" width="18" height="77" frameX="-272" frameY="-319" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0017" x="337" y="416" width="18" height="77" frameX="-272" frameY="-319" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0018" x="375" y="416" width="16" height="41" frameX="-272" frameY="-355" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0019" x="411" y="416" width="12" height="19" frameX="-271" frameY="-381" frameWidth="482" frameHeight="400"/>
+	<SubTexture name="burn explosion shroom0020" x="411" y="416" width="3" height="2" frameX="-271" frameY="-381" frameWidth="482" frameHeight="400"/>
+</TextureAtlas>
