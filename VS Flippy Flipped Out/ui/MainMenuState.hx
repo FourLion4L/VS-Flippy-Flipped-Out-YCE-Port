@@ -233,7 +233,7 @@ function createPost()
 	add(MechanicsWarnText);
 	gameplayModifierStuff.push(MechanicsWarnText);
 	
-	versionShit.text = "VS Flippy Flipped Out! YCE Port+ [preRelease]\n" + versionShit.text;
+	versionShit.text = "VS Flippy Flipped Out! YCE Port+ FINAL\n" + versionShit.text;
 	versionShit.y -= 20;
 	
 	if (fuckingPosStuf)
