@@ -1,0 +1,60 @@
+{
+	"chars":
+	[
+		{
+			"name":"flippy",
+			"unlockType":"none",
+			"unlock":"none",
+			"chance":50
+		},
+		{
+			"name":"flippy-blood",
+			"unlockType":"medal",
+			"unlock":"Fallen Soldier",
+			"chance":50
+		},
+		{
+			"name":"flippy-crazy",
+			"unlockType":"medal",
+			"unlock":"Fallen Soldier",
+			"chance":30
+		},
+		{
+			"name":"flippy-fallout",
+			"unlockType":"medal",
+			"unlock":"Fallen Soldier",
+			"chance":25
+		},
+		{
+			"name":"flippy-minus",
+			"unlockType":"medal",
+			"unlock":"Slaughter In The Woods",
+			"chance":50
+		},
+		{
+			"name":"lilflip",
+			"unlockType":"medal",
+			"unlock":"Slaughter In The Woods",
+			"chance":20
+		},
+		{
+			"name":"flippy-alt",
+			"unlockType":"medal",
+			"unlock":"Happy Tree Foe",
+			"chance":50
+		},
+		{
+			"name":"flippy-kapow",
+			"unlockType":"none",
+			"unlock":"none",
+			"chance":30
+		},
+		{
+			"name":"flippy-shanked",
+			"unlockType":"none",
+			"unlock":"none",
+			"chance":20
+		}
+	]
+}
+		

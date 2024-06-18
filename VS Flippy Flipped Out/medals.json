@@ -1,0 +1,148 @@
+{
+    "medals": [{
+            "desc": "Beat Triggered with a 90% accuracy and higher",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/triggered"
+            },
+            "name": "Really TRIGGERED"
+        }, {
+            "desc": "Beat Slaughter with a 90% accuracy and higher",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/slaughter"
+            },
+            "name": "Arrow Slaughterer"
+        }, {
+            "desc": "beat Slaughter with 69 accuracy",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/ballslaughter"
+            },
+            "name": "ball slaughter",
+			"rare": true
+        }, {
+            "desc": "Beat Overkill with a 90% accuracy and higher",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/overkill"
+            },
+            "name": "Killing Spree",
+			"rare": true
+        }, {
+            "desc": "Complete the MAIN week",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/mainweek"
+            },
+            "name": "Fallen Soldier"
+        }, {
+            "desc": "Complete the ALT week",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/altweek"
+            },
+            "name": "Happy Tree Foe"
+        }, {
+            "desc": "Complete the BONUS week",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/bonusweek"
+            },
+            "name": "Slaughter In The Woods"
+        }, {
+            "desc": "Beat Kapow with no misses",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/kapow"
+            },
+            "name": "KaPoW!",
+			"rare": true
+        }, {
+            "desc": "Beat Shell Shanked with no misses",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/shanked"
+            },
+            "name": "Shell Shanked"
+        }, {
+            "desc": "Die while being high",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/lsd"
+            },
+            "name": "Dont Do Drugs.",
+			"secret": true
+        }, {
+            "desc": "Disarm 200 nades (without botplay!)",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/200nades"
+            },
+            "name": "Disarmer",
+			"progress": true,
+			"goalValue": 200,
+			"progressID": 0
+        }, {
+            "desc": "Disarm 500 nades (without botplay!)",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/500nades"
+            },
+            "name": "Disarming Fever",
+			"progress": true,
+			"rare": true,
+			"goalValue": 500,
+			"progressID": 0
+        }, {
+            "desc": "Die from a burn grenade",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/burn"
+            },
+            "name": "Burned To The Ground"
+        }, {
+            "desc": "Beat Extinction with less than 10 misses",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/extinction"
+            },
+            "name": "Extinct fingers",
+			"rare": true
+        }, {
+            "desc": "Unlock all rare achievements (the ones with red borders)",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/default_rare"
+            },
+            "name": "Rare Type",
+			"progress": true,
+			"goalValue": "69"
+        }, {
+            "desc": "Unlock all achievements in this mod",
+            "img": {
+                "anim": "",
+                "fps": 24,
+                "src": "medals/default_rare"
+            },
+            "name": "Completionist",
+			"progress": true,
+			"goalValue": "42"
+        }
+    ]
+}

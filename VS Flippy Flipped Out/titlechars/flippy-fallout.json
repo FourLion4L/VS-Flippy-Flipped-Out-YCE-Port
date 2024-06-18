@@ -1,0 +1,1 @@
+{"spriteSource":"character","type":"interactable","scale":[0.7,0.7],"spriteSheet":"flippy-fallout","name":"flippy-fallout","spriteType":"sparrow","animOffsets":{"idle":[130,130],"right":[130,112],"down":[74,145],"up":[82,7],"left":[-18,38]}}

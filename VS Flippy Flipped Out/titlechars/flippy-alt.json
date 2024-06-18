@@ -1,0 +1,1 @@
+{"spriteSource":"character","type":"interactable","scale":[0.7,0.7],"spriteSheet":"flippy-alt","name":"flippy-alt","spriteType":"sparrow","animOffsets":{"idle":[0,105],"right":[87,114],"down":[15,145],"up":[-4,91],"left":[-43,95]}}

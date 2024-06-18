@@ -1,0 +1,208 @@
+{
+	"songs": [
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"scripts/bloodyUI",
+				"VS Flippy Flipped Out:/modcharts/overkick",
+				"VS Flippy Flipped Out:/mechanics/fireinthehole",
+				"scripts/fixedCamera"
+			],
+			"difficulties": null,
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "overkill"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/scripts/fallin",
+				"scripts/fixedCamera"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "fallout"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/mechanics/justMechanicsGet",
+				"scripts/fixedCamera"
+			],
+			"difficulties": null,
+			"cutscene": "MP4-Cutscene",
+			"end_cutscene": null,
+			"name": "triggered"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/mechanics/fireintheholeALT",
+				"VS Flippy Flipped Out:/modcharts/altweek",
+				"VS Flippy Flipped Out:/medalsScripts/MedalProgress_Core",
+				"VS Flippy Flipped Out:/medalsScripts/MedalProgress_FlippyNades",
+				"VS Flippy Flipped Out:/scripts/fixedCamera"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "compass"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/mechanics/fireintheholeALT",
+				"VS Flippy Flipped Out:/modcharts/altweek"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "assault"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/mechanics/fireintheholeALT",
+				"VS Flippy Flipped Out:/modcharts/altweek"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "bombshell"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/mechanics/fireintheholeALT"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "extinction"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/scripts/bloodyUI",
+				"VS Flippy Flipped Out:/modcharts/ballSlaughter",
+				"scripts/fixedCamera"
+			],
+			"difficulties": null,
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "slaughter"
+		},
+		{
+			"scripts": [
+				"scripts/fixedCameraMINUS",
+				"mechanics/healthSuck",
+				"VS Flippy Flipped Out:/scripts/bloodyUI",
+				"VS Flippy Flipped Out:modcharts/common",
+				"VS Flippy Flipped Out:/modcharts/separate/hudSlash",
+				"VS Flippy Flipped Out:/mechanics/fullpart"
+			],
+			"difficulties": null,
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "disturbed"
+		},
+		{
+			"scripts": [
+				"scripts/fixedCameraMINUS",
+				"scripts/bloodyUI",
+				"VS Flippy Flipped Out:/mechanics/healthSuck",
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/modcharts/separate/wavyNotes",
+				"VS Flippy Flipped Out:/modcharts/slasher"
+			],
+			"difficulties": null,
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "slasher"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/scripts/fixedCameraMINUS",
+				"VS Flippy Flipped Out:/scripts/bloodyUI",
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/modcharts/separate/hudSlash",
+				"VS Flippy Flipped Out:/modcharts/separate/hudSwing",
+				"VS Flippy Flipped Out:/mechanics/healthSuck",
+				"VS Flippy Flipped Out:/mechanics/fullpart"
+			],
+			"difficulties": null,
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "cleave"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/scripts/bloodyUI",
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/mechanics/healthSuckKapow"
+			],
+			"difficulties": null,
+			"cutscene": "",
+			"end_cutscene": "",
+			"name": "Kapow"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/scripts/bloodyUI",
+				"VS Flippy Flipped Out:/mechanics/healthSuckKapow",
+				"VS Flippy Flipped Out:/modcharts/common"
+			],
+			"difficulties": null,
+			"cutscene": "",
+			"end_cutscene": "",
+			"name": "meltdown"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/modcharts/shanked"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "shell-shanked"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/modcharts/unseized"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "unseized"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/modcharts/common",
+				"VS Flippy Flipped Out:/scripts/lsd"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "lsd"
+		},
+		{
+			"scripts": [
+				"VS Flippy Flipped Out:/scripts/bloodyUI",
+				"VS Flippy Flipped Out:/scripts/fixedCamera"
+			],
+			"difficulties": [],
+			"cutscene": null,
+			"end_cutscene": null,
+			"name": "disclosed"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "unhinged"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name":"flippy-blood",
+	"spriteSource":"character",
+	"spriteType":"sparrow",
+	"spriteSheet":"flippy-blood",
+	"scale": [0.7, 0.7],
+	"type":"interactable",
+	"animOffsets":
+	{
+		"idle": [0, 0],
+		"left": [-60, -26],
+		"down": [4, 35],
+		"up": [-18, -43],
+		"right": [-52, -18]
+	}
+}

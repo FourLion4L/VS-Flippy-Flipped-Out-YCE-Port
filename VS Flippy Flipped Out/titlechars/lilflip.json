@@ -1,0 +1,16 @@
+{
+	"name":"lilflip",
+	"spriteSource":"other",
+	"spriteType":"sparrow",
+	"spriteSheet":"fallen-soldier/cleave/lilboi",
+	"scale": [2.0, 2.0],
+	"type":"idle",
+	"animXML":
+	{
+		"idle": "flip"
+	},
+	"animOffsets":
+	{
+		"idle": [240, 330]
+	}
+}

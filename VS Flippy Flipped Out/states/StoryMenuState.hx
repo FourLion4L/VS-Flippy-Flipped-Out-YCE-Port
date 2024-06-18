@@ -1,0 +1,1 @@
+function create() FlxG.switchState(new MainMenuState());

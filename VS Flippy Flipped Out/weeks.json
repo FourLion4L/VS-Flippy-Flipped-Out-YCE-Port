@@ -1,0 +1,103 @@
+{
+    "weeks": [{
+            "bf": {
+                "animation": "BF idle dance white",
+                "confirmAnim": "BF HEY!!",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [100, 20],
+                "scale": 0.9
+            },
+            "bg": "",
+            "bgAnim": "",
+            "buttonSprite": "",
+            "color": "0xFFF9CF51",
+            "dad": {
+                "animation": "Dad idle dance BLACK LINE",
+                "confirmAnim": "",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [120, 200],
+                "scale": 0.5
+            },
+            "difficulties": ["hard"],
+            "gf": {
+                "animation": "GF Dancing Beat WHITE",
+                "confirmAnim": "",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [150, 159],
+                "scale": 0.5
+            },
+            "name": "Main Flippy Week",
+            "selectSFX": "confirmMenu",
+            "songs": ["Triggered", "Slaughter", "Overkill", "fallout"]
+        }, {
+            "bf": {
+                "animation": "BF idle dance white",
+                "confirmAnim": "BF HEY!!",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [100, 20],
+                "scale": 0.9
+            },
+            "bg": "",
+            "bgAnim": "",
+            "buttonSprite": "",
+            "color": "0xFFF9CF51",
+            "dad": {
+                "animation": "Dad idle dance BLACK LINE",
+                "confirmAnim": "",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [120, 200],
+                "scale": 0.5
+            },
+            "difficulties": ["HARD"],
+            "gf": {
+                "animation": "GF Dancing Beat WHITE",
+                "confirmAnim": "",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [150, 159],
+                "scale": 0.5
+            },
+            "name": "Alternative Flippy Week",
+            "selectSFX": "confirmMenu",
+            "songs": ["compass", "assault", "bombshell"]
+        }, {
+            "bf": {
+                "animation": "BF idle dance white",
+                "confirmAnim": "BF HEY!!",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [100, 20],
+                "scale": 0.9
+            },
+            "bg": "",
+            "bgAnim": "",
+            "buttonSprite": "storymenu/week1",
+            "color": "0xFFF9CF51",
+            "dad": {
+                "animation": "Dad idle dance BLACK LINE",
+                "confirmAnim": "",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [120, 200],
+                "scale": 0.5
+            },
+            "difficulties": ["hard"],
+            "gf": {
+                "animation": "GF Dancing Beat WHITE",
+                "confirmAnim": "",
+                "file": "storymenu/campaign_menu_UI_characters",
+                "flipX": false,
+                "offset": [150, 159],
+                "scale": 0.5
+            },
+            "name": "Bonus Flippy Week",
+            "selectSFX": "confirmMenu",
+            "songs": ["slasher", "cleave", "disturbed"]
+        }
+    ]
+}

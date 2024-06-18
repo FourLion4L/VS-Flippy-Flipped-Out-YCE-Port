@@ -1,0 +1,15 @@
+{
+    "animOffsets": {
+        "down": [26, 112],
+        "idle": [30, 70],
+        "left": [-80, 60],
+        "right": [36, 90],
+        "up": [32, 4]
+    }
+    "name": "flippy-kapow",
+    "scale": [0.7, 0.7],
+    "spriteSheet": "FLIPPY_kapow",
+    "spriteSource": "character",
+    "spriteType": "sparrow",
+    "type": "interactable"
+}

@@ -1,0 +1,16 @@
+{
+	"name":"flippy",
+	"spriteSource":"character",
+	"spriteType":"sparrow",
+	"spriteSheet":"flippy",
+	"scale": [0.7, 0.7],
+	"type":"interactable",
+	"animOffsets":
+	{
+		"idle": [0, 0],
+		"left": [-49, -29],
+		"down": [-8, -5],
+		"up": [-30, -45],
+		"right": [-8, -32]
+	}
+}

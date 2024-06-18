@@ -1,0 +1,1 @@
+{"spriteSource":"character","type":"interactable","scale":[0.7,0.7],"spriteSheet":"flippy-crazy","name":"flippy-crazy","spriteType":"sparrow","animOffsets":{"idle":[100,75],"right":[53,72],"down":[74,100],"up":[22,-13],"left":[10,34]}}
