@@ -1,0 +1,5 @@
+-80 0  // story mode
+50 -10  // medals
+0 -10  // options
+-20 0  // credits
+0 -5  // freeplay
