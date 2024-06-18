@@ -22,5 +22,5 @@ Link to the original mod (Gamejolt)
 - Reimagined title screen with different characters and a semi-secret functionality 😉
 - Credits menu replicated straight from Psych Engine!
 
-ℹ️ This port also has several following downsides:
+### ℹ️ This port also has several following downsides:
 - 
