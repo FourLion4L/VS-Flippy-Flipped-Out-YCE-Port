@@ -5,6 +5,7 @@ I own none of the assets (with an exception of explosion sprites which appear on
 
 Link to the original mod (Gamebanana)
 🔗 https://gamebanana.com/mods/408214
+
 Link to the original mod (Gamejolt)
 🔗 https://gamejolt.com/games/FLIPPEDOUT/690871
 
