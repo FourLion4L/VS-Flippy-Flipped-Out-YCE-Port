@@ -23,4 +23,5 @@ Link to the original mod (Gamejolt)
 - Credits menu replicated straight from Psych Engine!
 
 ℹ️ This port also has several following downsides:
-- 
+- 1
+- 2
