@@ -1,0 +1,5 @@
+Every beatHit, there's a 30% chance that a grenade will spawn.
+Then (if player's hp is bigger than a half of max) there's a 20% chance that this grenade will be a burn grenade.
+Otherwise, make it a bomb grenade that is to be disarmed with a mouse cursor.
+
+I was too lazy to make it with a cursor, lol.

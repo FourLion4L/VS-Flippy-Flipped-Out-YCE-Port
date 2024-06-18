@@ -1,0 +1,138 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": -40,
+		"y": 40
+	},
+	"globalOffset": {
+		"x": -30,
+		"y": 190
+	},
+	"healthbarColor": "#BCCD87",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 272,
+			"y": 38,
+			"anim": "FLP3 Alt Idle",
+			"loop": true,
+			"name": "idle-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 272,
+			"y": 38,
+			"anim": "FLP3 fadein",
+			"loop": false,
+			"name": "fadein",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 382,
+			"y": 60,
+			"anim": "FLP3 Alt M RIGHT",
+			"loop": false,
+			"name": "singRIGHT-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 38,
+			"y": -34,
+			"anim": "FLP3 M DOWN",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 272,
+			"y": 38,
+			"anim": "FLP3 fadeout",
+			"loop": false,
+			"name": "fadeout",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 362,
+			"y": 50,
+			"anim": "FLP3 Alt M LEFT",
+			"loop": false,
+			"name": "singLEFT-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 102,
+			"y": 128,
+			"anim": "FLP3 M UP",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "FLP3 idle",
+			"loop": true,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 296,
+			"y": 28,
+			"anim": "FLP3 Alt M DOWN",
+			"loop": false,
+			"name": "singDOWN-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 70,
+			"y": 0,
+			"anim": "FLP3 M RIGHT",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 120,
+			"y": 64,
+			"anim": "FLP3 M LEFT",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 354,
+			"y": 76,
+			"anim": "FLP3 Alt M UP",
+			"loop": false,
+			"name": "singUP-alt",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

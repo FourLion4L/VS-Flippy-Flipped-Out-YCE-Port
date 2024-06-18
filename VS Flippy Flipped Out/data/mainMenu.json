@@ -1,0 +1,55 @@
+{
+    "alignment": "center",
+    "bgScroll": false,
+    "flickerColor": "#FD719B",
+    "autoPos": false,
+    "defaultBehaviour": true,
+    "autoCamPos": false,
+    "options": [
+        {
+            "name": "Story Mode",
+            "image": "FNF_main_menu_assets",
+            "staticAnim": "story mode basic",
+            "selectedAnim": "story mode white",
+            "instant": false,
+            "callback": "onStoryMode",
+            "devModeOnly": false
+        },
+		{
+            "name": "Medals",
+            "image": "FNF_main_menu_assets",
+            "staticAnim": "medals basic",
+            "selectedAnim": "medals white",
+            "instant": false,
+            "callback": "onMedals",
+            "devModeOnly": false
+        },
+		{
+            "name": "Options",
+            "image": "FNF_main_menu_assets",
+            "staticAnim": "options basic",
+            "selectedAnim": "options white",
+            "instant": false,
+            "callback": "onOptions",
+            "devModeOnly": false
+        },
+		{
+            "name": "Credits",
+            "image": "FNF_main_menu_assets",
+            "staticAnim": "credits basic",
+            "selectedAnim": "credits white",
+            "instant": false,
+            "callback": "onCredits",
+            "devModeOnly": false
+        },
+        {
+            "name": "Freeplay",
+            "image": "FNF_main_menu_assets",
+            "staticAnim": "freeplay basic",
+            "selectedAnim": "freeplay white",
+            "instant": false,
+            "callback": "onFreeplay",
+            "devModeOnly": false
+        }
+    ]
+}

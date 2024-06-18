@@ -1,0 +1,47 @@
+1. Добавить каждому тайтл персонажу шанс появления. Если персонажу не повезло, искать нового тоже по рандому  -- ЗРОБЛЕНО
+2. FreePlay  -- ЗРОБЛЕНО
+3. Анимации смерти  -- ЗРОБЛЕНО
+4. Главное Меню  -- ЗРОБЛЕНО
+5. Add looped property for title screen characters  -- DONE
+6. Red time bar on bloody songs  -- DONE
+7. Update + fix modcharts  -- DONE
+7.1. Triggered fix  -- DONE
+7.2. Fallout fix  -- DONE
+8. Story Mode select in main menu  -- DONE
+8.1. Main menu visual  -- DONE
+8.2. Select week and play  -- DONE
+8.3. Add video in the beginning of main week  -- DONE
+8.4: Make gameplay modifiers context menu (difficulty, modchart, mechanics inclusion) (VISUAL)  -- DONE
+8.5: Make gameplay modifiers context menu (difficulty, modchart, mechanics inclusion) (FUNCTIONALITY)  -- DONE
+8.6: Make gameplay modifiers context menu for Freeplay  -- DONE
+9. Reorganize menu items like in original VS Flippy Flipped Out mod  -- DONE
+10. Add Yoshi Engine type of medals for the demo  -- DONE
+11. Add icons for achievements  -- DONE
+12. Finish nades  -- DONEEEEE
+12.1. Defuse grenade that has smallest amount of time left  -- DONE
+12.2. Add shit like infinite adding of parameters so that you can have infinite number of nades  -- VERY DONE
+12.3. Remove developer functions to optimize it a bit  -- DONE
+13. DEMO RELEASE  -- imma skip that shi cuz YCE's cancelled :sad:
+14. Custom achievement (medal) state with SECRET MEDALZ!1!1!!  -- scrapped :sad:
+15. Custom credits state (from PE bruh) with SECRET SONGZ!!!!111  -- DONE
+15.1. Visual Part 1  -- DONE
+15.2. Visual Part 2  -- DONE
+15.3. Functionality Part 1  -- DONE
+15.4. Functionality Part 2  -- DONE
+16. Small custom options state  -- scrapped, dumb idea :skull:
+17. Update titlescreen  -- DONE
+18. Rest of the songs  -- DONE (10.02.2024)
+18.1. Alt week  -- DONE
+18.1.1. Random grenade mechanic  -- DONE
+18.1.2. Modchartz  -- DONE
+18.2. Bonus week  -- DONE (26.10.2023)
+18.3. Freeplay songs  -- DONE (09.12.2023)
+18.3.1. LSD song with a shader  -- DONE (09.12.2023)
+18.4. Credits songs  -- DONE (10.02.2024)
+19. Add disabled mechanics score penalty (you'll have half of the score)  -- DONE
+20. Add CRAZY difficulty  -- scrapped :sad:
+21. More titlescreen characters!!!  -- DONE (10.02.2024)
+22. MORE MEDALZZZZZ  -- DONE (03.02.2024)
+23. Make custom medals state one more try lmao  -- DONE with swag! (09.02.2024)
+
+24. FINAL Playtest

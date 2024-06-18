@@ -1,0 +1,3 @@
+Grenade text in the song Overkill doesn't go down if you defuse fast  -- FIXED
+Video cutscene sound keeps playing sometimes  -- its possible to fix but nahhhhh, just don't fuck with the video
+Some weird crash after beating main week idk  -- FIXED

@@ -1,0 +1,129 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": -320,
+		"y": 290
+	},
+	"globalOffset": {
+		"x": 0,
+		"y": 350
+	},
+	"healthbarColor": "#31B0D1",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": -4,
+			"y": 2,
+			"anim": "BF idle shaking",
+			"loop": false,
+			"name": "scared",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -46,
+			"y": 25,
+			"anim": "BF NOTE RIGHT MISS0",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -18,
+			"y": -52,
+			"anim": "BF NOTE DOWN0",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 9,
+			"y": 21,
+			"anim": "BF NOTE LEFT MISS0",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -49,
+			"y": 32,
+			"anim": "BF NOTE UP0",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 7,
+			"anim": "BF HEY!!",
+			"loop": false,
+			"name": "hey",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "BF idle dance",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -46,
+			"y": -4,
+			"anim": "BF NOTE RIGHT0",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -16,
+			"y": -23,
+			"anim": "BF NOTE DOWN MISS0",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 7,
+			"y": -7,
+			"anim": "BF NOTE LEFT0",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -43,
+			"y": 30,
+			"anim": "BF NOTE UP MISS0",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

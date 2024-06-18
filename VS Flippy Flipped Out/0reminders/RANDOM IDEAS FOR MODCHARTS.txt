@@ -1,0 +1,2 @@
+For the minus week, on the second song, make unFade + three random parts of the HUD disappear -- finally done omg (31.08.2023)
+On extinction, change angle of cams when dadHit -- hmmm (26.10.2023)

@@ -1,0 +1,167 @@
+{
+	"songs": [
+		{
+			"theme": "og",
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Triggered",
+			"char": "flippy",
+			"bpm": 160,
+			"name": "Triggered",
+			"color": "#7CC714"
+		},
+		{
+			"theme": "bloody",
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Slaughter",
+			"char": "flippy-blood",
+			"bpm": 150,
+			"name": "Slaughter",
+			"color": "#67A60F"
+		},
+		{
+			"theme": "insane",
+			"displayName": "Overkill",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "flippy",
+			"color": "#677B0E",
+			"name": "Overkill",
+			"bpm": 280
+		},
+		{
+			"theme": "fearful",
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Fallout",
+			"char": "flippy",
+			"bpm": 142,
+			"name": "fallout",
+			"color": "#B5C856"
+		},
+		{
+			"theme": "alt",
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Compass",
+			"char": "flippy-alt",
+			"bpm": 200,
+			"name": "compass",
+			"color": "#FFFFFF"
+		},
+		{
+			"displayName": "Assault",
+			"difficulties": [
+				"Hard"
+			],
+			"theme": "alt",
+			"char": "flippy-alt",
+			"color": "#FFFFFF",
+			"name": "assault",
+			"bpm": 192
+		},
+		{
+			"displayName": "Bombshell",
+			"difficulties": [
+				"Hard"
+			],
+			"theme": "alt",
+			"char": "flippy-alt",
+			"color": "#FFFFFF",
+			"name": "bombshell",
+			"bpm": 190
+		},
+		{
+			"theme": "minus",
+			"displayName": "Slasher",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "flippy",
+			"color": "#FFFFFF",
+			"name": "slasher",
+			"bpm": 180
+		},
+		{
+			"theme": "minus",
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Cleave",
+			"char": "flippy",
+			"bpm": 140,
+			"name": "cleave",
+			"color": "#FFFFFF"
+		},
+		{
+			"theme": "minus",
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Disturbed",
+			"char": "flippy",
+			"bpm": 180,
+			"name": "disturbed",
+			"color": "#FFFFFF"
+		},
+		{
+			"theme": "kapow",
+			"displayName": "Kapow",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "flippy-kapow",
+			"color": "#FFFFFF",
+			"name": "Kapow",
+			"bpm": 200
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Meltdown",
+			"theme": "kapow",
+			"char": "flippy-kapow",
+			"bpm": 190,
+			"name": "Meltdown",
+			"color": "#FFFFFF"
+		},
+		{
+			"theme": "shanked",
+			"displayName": "Shell Shanked",
+			"difficulties": [
+				"Hard"
+			],
+			"char": "flippy-shanked",
+			"color": "#FFFFFF",
+			"name": "shell-shanked",
+			"bpm": 180
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "Unseized",
+			"char": "flippy",
+			"bpm": 174,
+			"name": "unseized",
+			"color": "#FFFFFF"
+		},
+		{
+			"difficulties": [
+				"Hard"
+			],
+			"displayName": "LSD",
+			"char": "flippy",
+			"bpm": 165,
+			"name": "lsd",
+			"color": "#FFFFFF"
+		}
+	]
+}
