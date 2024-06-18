@@ -3,12 +3,12 @@
 ⚠️ THIS PORT IS NOT OFFICIAL ⚠️
 I own none of the assets (with an exception of explosion sprites which appear on the screen). All credit goes to the original mod and its developers.
 
-\nLink to the original mod (Gamebanana)
-\n🔗 https://gamebanana.com/mods/408214
-\nLink to the original mod (Gamejolt)
-\n🔗 https://gamejolt.com/games/FLIPPEDOUT/690871
-\n
-\n*In order to receive the experience intended by developers, you MUST play the original VS Flippy: Flipped Out! mod first. All necessary links are located right above.
+Link to the original mod (Gamebanana)
+🔗 https://gamebanana.com/mods/408214
+Link to the original mod (Gamejolt)
+🔗 https://gamejolt.com/games/FLIPPEDOUT/690871
+
+*In order to receive the experience intended by developers, you MUST play the original VS Flippy: Flipped Out! mod first. All necessary links are located right above.
 
 ----------
 
