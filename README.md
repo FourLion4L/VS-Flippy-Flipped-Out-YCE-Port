@@ -25,7 +25,7 @@ Link to the original mod (Gamejolt)
 
 ℹ️ This port also has several following downsides:
 - This port doesn't have songs that were embedded in the original mod, the ones that weren't present in the mod's game files
-- This port is made for an FNF' engine that is by now completely abandoned, but was not at all when this port had started being developed. Take that into account when thinking how much this engine can do as it has a lot of messy code and poor optimization
+- This port is made for an FNF' engine that is by now completely abandoned, but was not at all back when this port had initially started being developed. Take that into account when thinking how much this engine can do as it has a lot of messy code and poor optimization
 
 ----------
 
